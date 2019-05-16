@@ -2,7 +2,8 @@
 name = "photopie"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+license = "LGPL-3.0+"
+authors = ["Ioannis Valasakis <code@wizofe.uk>"]
 
 [tool.poetry.dependencies]
 python = "^2.7"
