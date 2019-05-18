@@ -2,7 +2,7 @@
 Photopie
 ========
 
-Photopie is an Adobe Compatible Photoshop library using Python (3.x).
+Photopie is an Adobe Compatible Photoshop library compatible with Python 2.7, 3.7.
 
 
 Development
