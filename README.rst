@@ -9,11 +9,11 @@ Development
 
 Tools to be used in the development phase
 
-- Packaging: `poetry`
-- CI: `Travis`, `appveyor`
-- Testing: `pytest`, `tox`
-- Documentation: `sphinx`, `read the docs`, 
-- Coding Style: `black`
+- Packaging: ``poetry``
+- CI: ``Appveyor``
+- Testing: ``pytest``, ``tox``
+- Documentation: ``sphinx``, ``read the docs``, 
+- Coding Style: ``black``
 - Contributing: `poetry guidelines <https://poetry.eustace.io/docs/contributing/>`_
 - Glue: `dephell <https://github.com/dephell/dephell>`_
 
