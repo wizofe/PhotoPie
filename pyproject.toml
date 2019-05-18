@@ -9,7 +9,10 @@ authors = ["Ioannis Valasakis <code@wizofe.uk>"]
 python = "^2.7"
 
 [tool.poetry.dev-dependencies]
-pytest = "^3.0"
+pytest = "^4.5"
+pytest-cov = "^2.7"
+tox = "^3.11"
+pre-commit = "^1.16"
 
 [build-system]
 requires = ["poetry>=0.12"]
