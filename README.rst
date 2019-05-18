@@ -1,9 +1,9 @@
-|Appveyor Status| |License: MPL 2.0| |Codestyle| |contributions welcome| |HitCount|
+|Appveyor Status| |Codacy Badge| |Codestyle| |License: MPL 2.0| |contributions welcome| |HitCount|
 
 .. |License: MPL 2.0| image:: https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg
    :target: https://opensource.org/licenses/MPL-2.0
 
-.. |Appveyor Status| image:: https://ci.appveyor.com/api/projects/status/github/PhotoPie
+.. |Appveyor Status| image:: https://ci.appveyor.com/api/projects/status/github/wizofe/PhotoPie?svg=True
 
 .. |Codestyle| image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/python/black
@@ -13,6 +13,9 @@
 
 .. |HitCount| image:: http://hits.dwyl.io/wizofe/PhotoPie.svg
    :target: http://hits.dwyl.io/wizofe/PhotoPie
+
+.. |Codacy Badge| image:: https://api.codacy.com/project/badge/Grade/82e16a8a705d4da3b8ccbdac91e22150
+   :target: https://www.codacy.com/app/wizofe/PhotoPie?utm_source=github.com&utm_medium=referral&utm_content=wizofe/PhotoPie&utm_campaign=Badge_Grade
 
 ========
 PhotoPie
