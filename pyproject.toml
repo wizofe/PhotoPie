@@ -2,7 +2,7 @@
 name = "photopie"
 version = "0.1.0"
 description = ""
-license = "LGPL-3.0+"
+license = "MPL-2.0"
 authors = ["Ioannis Valasakis <code@wizofe.uk>"]
 
 [tool.poetry.dependencies]
