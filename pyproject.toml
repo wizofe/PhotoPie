@@ -1,12 +1,14 @@
 [tool.poetry]
 name = "photopie"
 version = "0.1.0"
-description = ""
-license = "MPL-2.0"
+description = "PhotoPie is the missing Python API for Adobe Photoshop(R)"
 authors = ["Ioannis Valasakis <code@wizofe.uk>"]
 
+license = "MPL-2.0"
+readme = "README.rst"
+
 [tool.poetry.dependencies]
-python = "^2.7"
+python = "~2.7 || ^3.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.5"
