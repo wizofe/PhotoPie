@@ -1,4 +1,4 @@
- |Appveyor Status| |License: MPL 2.0| |Codestyle| |contributions welcome| |HitCount|
+|Appveyor Status| |License: MPL 2.0| |Codestyle| |contributions welcome| |HitCount|
 
 .. |License: MPL 2.0| image:: https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg
    :target: https://opensource.org/licenses/MPL-2.0
@@ -15,10 +15,10 @@
    :target: http://hits.dwyl.io/wizofe/PhotoPie
 
 ========
-Photopie
+PhotoPie
 ========
 
-Photopie is an Adobe Photoshop :sup:`®` compatible library (tested with Adobe Photoshop :sup:`®` CC 2017/CC 2018) and can be used with Python 2.7, 3.4+. More like the missing Python API for your art needs!
+PhotoPie is an Adobe Photoshop :sup:`®` compatible library (tested with Adobe Photoshop :sup:`®` CC 2017/CC 2018) and can be used with Python 2.7, 3.4+. More like the missing Python API for your art needs!
 
 Releasing
 ---------
