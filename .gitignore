@@ -4,6 +4,8 @@
 
 artwork/
 
+*.lock
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
