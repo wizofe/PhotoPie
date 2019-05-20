@@ -78,6 +78,7 @@ That's why I am more than grateful, learning every day how to make my code bette
 - Package `landscape <http://andrewsforge.com/article/python-new-package-landscape/>`_
 - Reusable `apps <https://docs.djangoproject.com/en/2.2/intro/reusable-apps/>`_
 - Classes `1 <https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1>`_, `2 <https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/>`_, `3 <https://www.datacamp.com/community/tutorials/modules-in-python>`_
+- Contributing, by Mozilla `Labs <https://mozillascience.github.io/working-open-workshop/contributing/>`_
 
 FAQ
 ---
