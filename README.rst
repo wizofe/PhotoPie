@@ -36,7 +36,7 @@ PhotoPie is an Adobe Photoshop© compatible library, tested with versions CC 201
 Releasing
 ---------
 
-Planned ALPHA Release (0.1.0): **1st June 2019**. Keep the date.
+Planned ALPHA Release (0.1.0): **June 2019**. Keep the date.
 
 Why?
 ----
